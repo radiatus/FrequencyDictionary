@@ -1,0 +1,9 @@
+D:\ProjectCode\Csharp\FrequencyDictionary\FrequencyDictionary\bin\Debug\FrequencyDictionary.exe.config
+D:\ProjectCode\Csharp\FrequencyDictionary\FrequencyDictionary\bin\Debug\FrequencyDictionary.exe
+D:\ProjectCode\Csharp\FrequencyDictionary\FrequencyDictionary\bin\Debug\FrequencyDictionary.pdb
+D:\ProjectCode\Csharp\FrequencyDictionary\FrequencyDictionary\obj\Debug\FrequencyDictionary.csprojResolveAssemblyReference.cache
+D:\ProjectCode\Csharp\FrequencyDictionary\FrequencyDictionary\obj\Debug\FrequencyDictionary.Form1.resources
+D:\ProjectCode\Csharp\FrequencyDictionary\FrequencyDictionary\obj\Debug\FrequencyDictionary.Properties.Resources.resources
+D:\ProjectCode\Csharp\FrequencyDictionary\FrequencyDictionary\obj\Debug\FrequencyDictionary.csproj.GenerateResource.Cache
+D:\ProjectCode\Csharp\FrequencyDictionary\FrequencyDictionary\obj\Debug\FrequencyDictionary.exe
+D:\ProjectCode\Csharp\FrequencyDictionary\FrequencyDictionary\obj\Debug\FrequencyDictionary.pdb
