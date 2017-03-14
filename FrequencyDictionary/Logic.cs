@@ -26,7 +26,7 @@ namespace FrequencyDictionary
             Encoding enc = Encoding.GetEncoding(1251);
             StreamReader sr = new StreamReader(wayToFile, enc);
             string fileString2 = sr.ReadToEnd();
-            fileWords = fileString2.Split(new char[] { ' ', ',', '.', ':', ';', '}', '{', '=', '(', ')', '\t' });
+            fileWords = fileString2.Split(new char[] { ' ', ',', '.', ':', ';', '}', '{', '=', '(', ')', '\"', '\n', '\r' ,'\t' });
         }
 
         public static void stringToList()
